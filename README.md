@@ -3,6 +3,7 @@
 A end-to-end machine learning pipeline for predicting match outcomes, simulating the FIFA World Cup 2026 tournament, and generating scoreline probabilities. Built across five notebooks and deployed as an interactive Streamlit dashboard.
 
 ---
+## Dashboard : https://wcpred.streamlit.app/
 
 ## Project Structure
 
